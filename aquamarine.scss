@@ -41,12 +41,12 @@ $link-color: #12bbad;
 // Fonts
 $font-family-base: Roboto;
 $display-font-family: Roboto;
-$lead-font-size:   1.30rem;
+$lead-font-size:   1.80rem;
 $font-size-base:  1rem;
-$font-weight-light: 300;
-$font-weight-normal: 200;
-$font-weight-bold: 700;
-$font-weight-base: $font-weight-normal;
+
+
+
+
 $line-height-base:  1.5;
 $headings-font-family: Roboto;
 $headings-font-weight: $font-weight-normal;
@@ -74,6 +74,11 @@ $breadcrumb-bg: transparent !default;
 // Carousel
 $carousel-caption-width:            					100% !default;
 $carousel-indicator-height:                   6px !default;
+
+
+
+
+
 
 @import 'bootstrap-4.1.3';
 
